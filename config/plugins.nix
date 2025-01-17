@@ -38,7 +38,7 @@
         pyright.enable = true;
         ruff.enable = true;
         marksman.enable = true;
-        nil-ls.enable = true;
+        nil_ls.enable = true;
         bashls.enable = true;
       };
     };

@@ -1,6 +1,6 @@
 { ... }: {
   imports = [
-    ./cmp.nix
+    ./blink.nix
     ./conform.nix
     ./indent.nix
     ./lualine.nix
